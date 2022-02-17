@@ -2,8 +2,9 @@ Computational Biology Laboratory, Danish Cancer Society Research Center, Strandb
 
 Repository associated to the publication:
 
-Ambra1 controls Cyclin D1-dependent DNA replication and genome stability
-Emiliano Maiani et al., in press
+AMBRA1 regulates cyclin D to guard S-phase entry and genomic integrity.
+Maiani E, Milletti G, Nazio F, Holdgaard SG, Bartkova J, Rizza S, Cianfanelli V, Lorente M, Simoneschi D, Di Marco M, D'Acunzo P, Di Leo L, Rasmussen R, Montagna C, Raciti M, De Stefanis C, Gabicagogeascoa E, Rona G, Salvador N, Pupo E, Merchut-Maya JM, Daniel CJ, Carinci M, Cesarini V, O'sullivan A, Jeong YT, Bordi M, Russo F, Campello S, Gallo A, Filomeni G, Lanzetti L, Sears RC, Hamerlik P, Bartolazzi A, Hynds RE, Pearce DR, Swanton C, Pagano M, Velasco G, Papaleo E, De Zio D, Maya-Mendoza A, Locatelli F, Bartek J, Cecconi F.
+Nature. 2021 Apr;592(7856):799-803. doi: 10.1038/s41586-021-03422-5.
 
 for information on the repository: Elena Papaleo, elenap-at-cancer.dk
 
